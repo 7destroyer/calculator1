@@ -5,6 +5,7 @@
 using namespace std;
 
 int main() {
+    setlocale(LC_ALL, "RU");
     float num1, num2, res;
 
     cout << "Enter num1: " << endl;
